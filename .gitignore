@@ -1,0 +1,13 @@
+# next.js build output
+.next/
+
+# dotenv environment variables file (build for Zeit Now)
+.env
+.env.build
+
+# Dependency directories
+node_modules/
+
+# Database
+*.sqlite3
+furniture.json
